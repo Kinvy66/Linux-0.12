@@ -1,0 +1,14 @@
+*.o
+*.bin
+*.map
+*.a
+Image
+.gitignore
+tools/build
+tools/system
+boot/setup
+boot/bootsect
+boot/bootsect.s
+boot/setup.s
+kernel/chr_drv/keyboard.s
+*.ini
